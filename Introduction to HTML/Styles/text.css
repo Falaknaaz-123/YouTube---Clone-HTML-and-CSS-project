@@ -1,0 +1,251 @@
+p {
+  font-family: Roboto;
+  margin-top: 0;
+  margin-bottom:0;
+}
+.video-title{
+  
+  font-weight: bold;
+  font-size: 18px;
+  width: 280px;
+  line-height: 24px;
+  margin-bottom: 5px;
+}
+
+.video-stats{
+
+  font-size: 14px;
+  color: rgb(96,96,96); 
+
+  margin-bottom: 20px;
+
+}
+
+.video-author{
+
+  color: rgb(96,96,96); 
+  font-size: 14px;
+
+  margin-bottom: 20px;
+
+
+}
+.video-description{
+
+  font-size: 14px;
+  color: rgb(96,96,96);
+  width:280px; 
+  line-height: 22px;
+  margin-bottom: 100px;
+
+}
+
+.apple-text{
+  margin-bottom: 50px;
+  font-size: 14px;
+  background-color: #e34140;
+  color: white;
+  text-align: center;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  
+
+
+}
+.shop-link{
+  cursor: pointer;
+
+}
+.shop-link:hover{
+  text-decoration: underline;
+}
+.tahoma-font{
+  font-family: Tahoma;
+  font-size: 20px;
+  color: black;
+  font-weight: bold;
+  margin-bottom: 30px;
+
+}
+.font-arial{
+  font-size: 23px;
+  font-weight: bold;
+  color: black;
+  font-family: Arial;
+  margin-bottom: 3px;
+}
+.font-arial-2{
+  font-family: Arial;
+  font-style: italic;
+  color: red;
+  margin-top: 0px;
+  margin-bottom: 20px;
+
+}
+.title-1{
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 18px;
+  color: black;
+  margin-bottom: 2px;
+
+}
+.title-2{
+  font-family: Verdana;
+  font-weight:bold;
+  color: grey;
+  margin-top: 0px;
+  font-size: 15px;
+  margin-bottom: 28px;
+}
+.content-1{
+  font-family: Verdana;
+  color: black;
+  width: 299px;
+  margin-bottom:20px ;
+}
+.get-started{
+  color: white;
+  background-color: green;
+  border-radius: 5px;
+  border: none;
+  font-weight: bold;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 10px;
+  padding-right:10px;
+  margin-bottom: 25px;
+}
+.font-arial-1
+{
+  font-size: 25px;
+  font-weight: bold;
+  color: black;
+  margin-bottom: 15px;
+}
+.heading-2{
+  color: black;
+  font-size: 14px;
+  width: 300px;
+  text-align: center;
+  margin-bottom: 15px;
+}
+.heading-3{
+  color: rgb(65, 65, 129);
+  width: 300px;
+  text-align: center;
+  font-size: 12px;
+}
+.e-1{
+  color: red;
+  font-family: Arial;
+  font-size: 10px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 7px;
+  width: 400px;
+  margin-top: 20px;
+}
+.e-2{
+  font-family: Arial;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 1px;
+  width:400px;
+}
+.e-3{
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 0px;
+  width: 400px;
+  margin-bottom: 10px;
+}
+.e-4{
+  font-family: Arial;
+  color: gray;
+  text-align: center;
+  width: 400px;
+  font-size: 10px;
+  margin-top: 0px;
+  margin-bottom: 15px;
+}
+.e-5{
+  color: white;
+  background-color: rgb(59, 59, 212);
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-weight: bold;
+  border: none;
+  border-radius: 30px;
+  margin-left: 170px;
+  margin-bottom: 20px;
+  
+
+}
+.f-1{
+  color: black;
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 3px;
+
+}
+.f-1-1{
+  color: grey;
+  font-size: 12px ;
+  font-weight: bold;
+  margin-bottom: 3px;
+
+}
+.f-2{
+  color: green;
+  font-family: Arial;
+  font-size:12px;
+  font-weight: bold;
+  margin-bottom: 3px;
+}
+.f-3{
+  font-family: Arial;
+  font-size: 12px;
+  color: grey;
+  margin-top: 0px;
+  margin-bottom: 20px;
+
+}
+.f-3-3{
+  font-family: Arial;
+  font-size: 12px;
+  color: red;
+  margin-top: 0px;
+  margin-bottom: 20px;
+
+}
+.g-1{
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 15px;
+}
+.g-1-1{
+  font-family: Arial;
+  font-weight: bold;
+  color: grey;
+}
+.g-2{
+  font-size: 15px ;
+  width: 500px;
+  margin-bottom: 10px;
+}
+.g-3{
+  font-size: 15px ;
+  width: 530px;
+
+}
+.g-3-1{
+  color: rgb(91, 91, 181);
+  font-family: Arial;
+  font-size:15px;
+}
